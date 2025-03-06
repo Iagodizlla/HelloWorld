@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Oi!");
+            Console.WriteLine("Academia do programador");
         }
     }
 }
